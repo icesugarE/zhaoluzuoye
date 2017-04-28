@@ -1,0 +1,10 @@
+ul{
+	list-style-type: none;
+}
+.no1{
+	background-image:url(images/menuhover.gif);
+	list-style-image:url(images/menuhover.gif);
+}
+.no2{
+	list-style-type:disc;
+}
