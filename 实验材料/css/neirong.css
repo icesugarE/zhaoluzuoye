@@ -1,0 +1,156 @@
+    body{
+        font-size: 12px;
+        color: #522a06；
+        background-image: url(../images/bodybg.gif);
+    }
+    a:link{
+        color:#fff;
+        text-decoration: none;
+    }
+    a:visited{
+        color: #fff;
+    }
+    a:hover{
+        color:#f9f603;
+        text-decoration:none;
+    }
+    #miao{
+        color:#f9f603;
+    }
+    #one1{
+        background-image: url(../images/bg.gif);
+        background-position: top center;
+        height: 164px;
+            }
+    #one11{
+        float: z-index;
+        padding-left: 25px;
+        padding-top: 38px;
+    }
+    #one2{
+        background-image: url(../images/nav.jpg);
+        height: 40px;
+    }
+    #one21{
+        width: 800px;
+        color:#fff;
+        font-weight: normal;
+        text-align: center;
+        line-height:40px;
+        float: left;
+        
+    }
+    #one22{
+        float: left;
+        padding-top: 10px;
+        padding-left: 40px;
+    }
+    #one222{
+        width: 140px;
+        height: 19px;
+        background-color: #f8f5ee;
+        float: left;
+    }
+    #one2222{
+        width: 44px;
+        height: 21px;
+        background-color: #000;
+        color:#fff;
+        border: 1px solid #f8f5ee;
+        float: left;
+        text-align: center;
+    }
+    #three{
+        height: 105px;
+        clear: both;
+        background-image: url(../images/foot.gif);
+        text-align: center;
+        padding-top: 30px;
+        color:#522a06;
+    }
+    #clear{
+        clear: both;
+    }
+    #two{
+        width: 1020px;
+        clear: right/right;
+        margin:0 auto;
+        padding-top: 30px;  
+        color:#522a06;      
+    }
+    #two1{
+        color:#522a06;
+        width: 700px;
+        float: left;
+    }
+    #shou1{
+        font-size: 16px;
+        text-align: center;        
+    }
+    #shou2{
+        color: grey;
+        text-align: center;       
+    }
+
+    #zhong{
+        text-align: center; 
+    }
+    a.a:link{
+        color:#522a06;
+        text-decoration: none;
+    }
+    a.a:visited{
+        color:#522a06;
+    }
+    a.a:hover{
+        color:#f9f603;
+        text-decoration:none;
+    }
+    #two2{
+        width: 280px
+        padding-left:16px;
+        float: left;
+        margin-left: 15px;
+        padding-top: 10px;     
+    }
+    #zuijin{
+        border: 1px solid #c9baa5;
+        background-image: url(../images/bg.png);
+        margin-bottom: 20px;
+        width:280px;
+    }
+    #zuijin1{
+        margin-bottom: 10px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    #zuijin2{
+        line-height: 30px;
+        margin-left: 13px;
+        padding-bottom: 10px;
+    }
+    #mingjia{
+        width: 280px;
+        padding-top: 20px;
+        padding-bottom: 20px; 
+        background-image: url(../images/show_bg.png);
+        height: 323px;
+    }
+    #mignjia1{
+        text-align: center;
+        width: 280px;
+        padding-left: 20px;
+    }
+    #mingjia2{
+        text-align: center;
+        padding-left: 20px;
+    }
+    #mingjia3{
+        font-size: 16px;
+        padding: 0px 5px 5px 10px;
+        line-height: 20px;
+    }
+    p{
+        line-height: 20px;
+        font-size: 14px;
+    }
